@@ -6,5 +6,5 @@
 
 *Descripción:*
 
-El código elaborado en Python es capaz de predecir las acciones al día de mañana para cualquier empresa que cotize en la Bolsa Mexicana de Valores usando las técnicas expuestas en clase.
+El código elaborado en Python tiene la capacidad de predecir las acciones al día de mañana para cualquier empresa que cotize en la Bolsa Mexicana de Valores usando las técnicas expuestas en clase.
 
